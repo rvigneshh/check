@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .chat-submit:hover{
+    background: transparent !important;
+}
+ .content{
+    display: none
+}
+
+ .content-tab-active{
+    display: block !important;
+}
